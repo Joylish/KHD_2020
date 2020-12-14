@@ -10,4 +10,4 @@ Paranasal sinuses data
 
 ### 첫 대회에서 얻은 결과
 
-![image-20201002161404086](C:\Sinusitis-KHD2020\image\outcome.png)
+![image-20201002161404086](./image/outcome.png)
